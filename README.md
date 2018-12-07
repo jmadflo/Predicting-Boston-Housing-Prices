@@ -6,7 +6,7 @@
 
 - As the name suggests, this project is centered on the creation of a machine learning model capable of predicting the selling prices of homes in the Boston area.
 
-- The format of this project is Python code blocks with my contributions including the word 'Implementation' in the section header, and with the 'TODO' keyword in the comments preceding my code contribution. 
+- This Jupyter Notebook project comprised of Python code blocks with my contributions including the word 'Implementation' in the section header, and with the 'TODO' keyword in the comments preceding my code contribution. 
 
 - Furthermore, there are 11 conceptual questions that I have answered thoroughly and demonstrate my understanding of the data and the work that I engaged in with it.
 
