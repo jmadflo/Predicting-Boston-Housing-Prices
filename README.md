@@ -1,5 +1,7 @@
 # Predicting-Boston-Housing-Prices
 
+- This is the first project of my Udacity Machine Learning Engineer Nanodegree journey.
+
 - To view my work, open the boston_housing_prices.ipynb file. The rest are supporting files or less readable formats of the same work.
 
 - As the name suggests, this project is centered on the creation of a machine learning model capable of predicting the selling prices of homes in the Boston area.
